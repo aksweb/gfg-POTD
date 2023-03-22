@@ -4,6 +4,6 @@ This repository contains solutions to the GeeksforGeeks Problem of the Day. Ther
 
 - [Distinct_Difference_19_03_23.cpp](./Distinct_Difference_19_03_23.cpp)
 - [Taxi_Booking_21_03_23.cpp](./Taxi_Booking_21_03_23.cpp)
-
+- [String_rp_pr_22_03_23.cpp](./String_rp_pr_22_03_23.cpp)
 
 To view the code for a specific problem, simply click on the corresponding file name above.
