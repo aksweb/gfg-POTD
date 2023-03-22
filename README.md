@@ -1,5 +1,5 @@
 # GFG Problem of the Day Solutions
-
+[](https://media.geeksforgeeks.org/img-practice/Problemofthedaynewcopy-1637640589.png)
 This repository contains solutions to the GeeksforGeeks Problem of the Day. All solutions are uploaded before ending of the day. To access the code for a specific problem, click on the file name below or you can also view the problem by clicking on Problem Link:
 
 - [Distinct_Difference_19_03_23.cpp](./Distinct_Difference_19_03_23.cpp) || [ EASY- Problem link:](https://practice.geeksforgeeks.org/problems/c670bf260ea9dce6c5910dedc165aa403f6e951d/1)
