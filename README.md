@@ -8,6 +8,7 @@
 
 <br>
 
+- [Make_Array_Elements_Equal_01_04_23](./Make_Array_Elements_Equal.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/1f05c7c12b1084f270c57566b2110967c046730d/1)
 - [Even_Swap_31_03_23](./Even_Swap_31_03_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/even-swap/1)
 - [Redundant_Parenthesis_25_03_23](./Redundant_Parenthesis_25_03_23.cpp) || [HARD - Problem link :](https://practice.geeksforgeeks.org/problems/ef5111156686a3136c6a0df8bbda17f952947e17/1)
 - [Remove_and_Reverse_24_03_23](./Remove_and_Reverse_24_03_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/1e2f365be6114b671b915e145ec7dbcfdc432910/1)
