@@ -8,6 +8,7 @@
 
 <br>
 
+- [Minimum_Number_23_04_23](./Minimum_Number_23_04_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)
 - [Smaller_Sum_22_04_23](./Smaller_Sum_22_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/5877fde1c8e1029658845cd4bc94066ac1d4b09b/1)
 - [Prefix_Suffix_String_21_04_23](./Prefix_Suffix_String_21_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1)
 - [Remove_the_balls_14_04_23](./Remove_the_balls_14_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/546ea68f97be7283a04ddcc8057e09b46a686471/1)
