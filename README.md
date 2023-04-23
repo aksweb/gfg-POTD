@@ -1,7 +1,7 @@
 # GFG Problem of the Day Solutions
 
 <br>
-<i> This repository contains solutions to the GeeksforGeeks Problem of the Day. All solutions are uploaded before ending of the day. To access the code for a specific problem, click on the file name below or you can also view the problem by clicking on Problem Link: </i>
+<i> This repository contains solutions to the GeeksforGeeks Problem of the Day. All solutions are uploaded before evening of the day. To access the code for a specific problem, click on the file name below or you can also view the problem by clicking on Problem Link: </i>
 <br><br>
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
