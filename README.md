@@ -3,10 +3,8 @@
 <br>
 <i> This repository contains solutions to the GeeksforGeeks Problem of the Day. All solutions are uploaded before ending of the day. To access the code for a specific problem, click on the file name below or you can also view the problem by clicking on Problem Link: </i>
 <br><br>
-
-![gfg](https://media.geeksforgeeks.org/img-practice/Problemofthedaynewcopy-1637640589.png)
-
-<br>
+To view the code for a specific problem, simply click on the corresponding file name above.
+<br><br>
 
 - [Minimum_Number_23_04_23](./Minimum_Number_23_04_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)
 - [Smaller_Sum_22_04_23](./Smaller_Sum_22_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/5877fde1c8e1029658845cd4bc94066ac1d4b09b/1)
@@ -26,4 +24,6 @@
 - [Taxi_Booking_21_03_23.cpp](./Taxi_Booking_21_03_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/7995e41d167d81f14f1d4194b29ef839f52d18ba/1)
 - [Distinct_Difference_19_03_23.cpp](./Distinct_Difference_19_03_23.cpp) || [ EASY- Problem link:](https://practice.geeksforgeeks.org/problems/c670bf260ea9dce6c5910dedc165aa403f6e951d/1)
 
-To view the code for a specific problem, simply click on the corresponding file name above.
+![gfg](https://media.geeksforgeeks.org/img-practice/Problemofthedaynewcopy-1637640589.png)
+
+<br>
