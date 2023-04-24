@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Nearest_Smaller_Tower_24_04_23](./Nearest_Smaller_Tower_24_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/a520c08a8ea9b617be25c38b0fc2fe057e889253/1)
 - [Minimum_Number_23_04_23](./Minimum_Number_23_04_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/7d62c8606123a199720c9b6885249dc9ac651bb7/1)
 - [Smaller_Sum_22_04_23](./Smaller_Sum_22_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/5877fde1c8e1029658845cd4bc94066ac1d4b09b/1)
 - [Prefix_Suffix_String_21_04_23](./Prefix_Suffix_String_21_04_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/5be83263c7f2cb866c60b23b73bb38f88de2461c/1)
