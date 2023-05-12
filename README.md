@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Array_Operations_12_05_23](./Array_Operations_12_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/3a93b6a25a7b88e4c80a1fee00898fd8022eb108/1)
 - [Total_Cuts.cpp_10_05_23](./Total_Cuts.cpp_10_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/cbd515a00f6537180d2e66f1ffe11093a128e560/1)
 - [Seating_Arrangement_26_04_23](./Seating_Arrangement.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/6bb49b563cc171335c6564b00307a6d867e0268d/1)
 - [Game_Of_Subsets_25_04_23](https://github.com/Thelalitagarwal/GFG_Daily_Problem/blob/main/Game%20Of%20Subsets.cpp) || [HARD - Problem link :](https://practice.geeksforgeeks.org/problems/cec5db442a5652d07dd41e37ea780345f08c9a3d/1)
