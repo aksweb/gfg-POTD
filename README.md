@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Modify Linked List-1](./Modify Linked List-1.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/modify-linked-list-1-0546/1)
 - [Bit_magic_13_05_23](./Bit_magic_13_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/ed0422e992899f3f46340ce97b0090683ceebd67/1)
 - [Array_Operations_12_05_23](./Array_Operations_12_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/3a93b6a25a7b88e4c80a1fee00898fd8022eb108/1)
 - [Total_Cuts.cpp_10_05_23](./Total_Cuts.cpp_10_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/cbd515a00f6537180d2e66f1ffe11093a128e560/1)
