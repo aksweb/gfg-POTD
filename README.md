@@ -6,6 +6,8 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Find_Kth_permutation_08_06_23.cpp](./Solutions/Find_Kth_permutation_08_06_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/find-kth-permutation-0932/1)
+
 - [CamelCase_Pattern_Matching_29_05_23.cpp](./Solutions/CamelCase_Pattern_Matching_29_05_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching2259/1)
 - [Nth_node_from_end_of_linked_list_28_05_23](./Solutions/Nth_node_from_end_of_linked_list_28_05_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - [Modify_Linked_List-1_27_05_23](./Solutions/Modify_Linked_List-1_28_05_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/modify-linked-list-1-0546/1)
