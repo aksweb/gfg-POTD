@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Queue_Operatons_17_06_23](./Solutions/Queue_Operatons_17_06_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/queue-operations/1)
 - [Longest_Palindrome_in_a_String_15_06_23](./Solutions/Longest_Palindrome_in_a_String_15_06_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
 - [K_largest_elements_13_06_23.cpp](./Solutions/K_largest_elements_13_06_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1)
 - [Find_Kth_permutation_08_06_23.cpp](./Solutions/Find_Kth_permutation_08_06_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/find-kth-permutation-0932/1)
