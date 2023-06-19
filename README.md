@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Rearrange_an_array_with_O(1)\_extra_space_19_jun23.cpp](<./Solutions/Rearrange_an_array_with_O(1)_extra_space_19_jun23.cpp>) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 - [Ticket_Counter_18_Jun_23.cpp](./Solutions/Ticket_Counter_18_Jun_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1)
 - [Queue_Operatons_17_06_23](./Solutions/Queue_Operatons_17_06_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/queue-operations/1)
 - [Longest_Palindrome_in_a_String_15_06_23](./Solutions/Longest_Palindrome_in_a_String_15_06_23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
