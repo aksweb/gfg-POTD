@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Reverse_Coding_21Jun23.cpp](./Solutions/Reverse_Coding_21Jun23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1)
 - [Matchsticks_game_20Jun23.cpp](./Solutions/Matchsticks_game_20Jun23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/-matchsticks-game4906/1)
 - [Rearrange_an_array_with_O(1)\_extra_space_19_jun23.cpp](<./Solutions/Rearrange_an_array_with_O(1)_extra_space_19_jun23.cpp>) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 - [Ticket_Counter_18_Jun_23.cpp](./Solutions/Ticket_Counter_18_Jun_23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/ticket-counter-2731/1)
