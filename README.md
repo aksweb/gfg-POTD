@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [nCr_26Jun23.cpp](./Solutions/nCr_26Jun23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/ncr1019/1)
 - [Lemonade_Change_22Jun23.cpp](./Solutions/Lemonade_Change_22Jun23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/lemonade-change/1)
 - [Reverse_Coding_21Jun23.cpp](./Solutions/Reverse_Coding_21Jun23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/reverse-coding2452/1)
 - [Matchsticks_game_20Jun23.cpp](./Solutions/Matchsticks_game_20Jun23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/-matchsticks-game4906/1)
