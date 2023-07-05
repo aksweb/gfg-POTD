@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Stock_buy_and_sell_II_5Jul.cpp](./Solutions/Stock_buy_and_sell_II_5Jul.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1)
 - [Number_of_1_Bits_1Jul23.cpp](./Solutions/Number_of_1_Bits_1Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/set-bits0143/1)
 - [Is_Binary_Number_Multiple_of_3_30Jun23.cpp](./Solutions/Is_Binary_Number_Multiple_of_3_30Jun23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)
 - [Maximum_Depth_Of_Binary_Tree_28Jun23.cpp](./Solutions/Maximum_Depth_Of_Binary_Tree_28Jun23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1)
