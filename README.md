@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Queue_Reversal_16Jul23.cpp](./Solutions/Queue_Reversal_16Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
 - [Delete_middle_element_of_a_stack_15Jul23.cpp](./Solutions/Delete_middle_element_of_a_stack_15Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
 - [Implement_two_stacks in_an_array_14Jul23.cpp](./Solutions/Implement_two_stacks%20in_an_array_14Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
 - [Unique_Number_of_Occurrences_13Jul23.cpp](./Solutions/Unique_Number_of_Occurrences_13Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1)
