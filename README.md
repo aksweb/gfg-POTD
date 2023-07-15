@@ -7,7 +7,7 @@ To view the code for a specific problem, simply click on the corresponding file 
 <br><br>
 
 - [Delete_middle_element_of_a_stack_15Jul23.cpp](./Solutions/Delete_middle_element_of_a_stack_15Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
-- [Implement_two_stacks in_an_array_14Jul23.cpp](./Solutions/Implement_two_stacks in_an_array_14Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
+- [Implement_two_stacks in_an_array_14Jul23.cpp](./Solutions/Implement_two_stacks%20in_an_array_14Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
 - [Unique_Number_of_Occurrences_13Jul23.cpp](./Solutions/Unique_Number_of_Occurrences_13Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/unique-frequencies-of-not/1)
 - [Find_triplets_with_zero_sum_8Jul.cpp](./Solutions/Find_triplets_with_zero_sum_8Jul.cpp) || [BASIC - Problem link :](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1)
 - [Stock_buy_and_sell_II_5Jul.cpp](./Solutions/Stock_buy_and_sell_II_5Jul.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell2615/1)
