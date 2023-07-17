@@ -6,7 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
-- [First non-repeating character in a stream_17Jul23.cpp](./Solutions/First non-repeating character in a stream_17Jul23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+- [First_non-repeating_character_in_a_stream_17Jul23.cpp](./Solutions/First_non-repeating_character_in_a_stream_17Jul23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
 - [Queue_Reversal_16Jul23.cpp](./Solutions/Queue_Reversal_16Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/queue-reversal/1)
 - [Delete_middle_element_of_a_stack_15Jul23.cpp](./Solutions/Delete_middle_element_of_a_stack_15Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)
 - [Implement_two_stacks in_an_array_14Jul23.cpp](./Solutions/Implement_two_stacks%20in_an_array_14Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
