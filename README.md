@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Inorder_Successor_in_BST_30Jul23.cpp](./Solutions/Inorder_Successor_in_BST_30Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 - [Median_of_BST_29Jull.cpp](./Solutions/Median_of_BST_29Jull.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/median-of-bst/1)
 - [Level_order_traversal_in_spiral_form_25Jul23.cpp](./Solutions/Level_order_traversal_in_spiral_form_25Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
 - [Non_Repeating_Character_20Jul23.cpp](./Solutions/Non_Repeating_Character_20Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)
