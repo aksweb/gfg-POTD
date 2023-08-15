@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Flip_Bits_15Aug23.cpp](./Solutions/Flip_Bits_15Aug23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)
 - [Non_Repeating_Numbers_14Aug23.cpp](./Solutions/Non_Repeating_Numbers_14Aug23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
 - [Inorder_Successor_in_BST_30Jul23.cpp](./Solutions/Inorder_Successor_in_BST_30Jul23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1)
 - [Median_of_BST_29Jull.cpp](./Solutions/Median_of_BST_29Jull.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/median-of-bst/1)
