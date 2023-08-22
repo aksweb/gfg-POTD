@@ -6,6 +6,8 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Make_matrix_beautiful_22Aug23.cpp](./Solutions/Make_matrix_beautiful_22Aug23.cpp) || [MEDIUM (MATRIX) - Problem link :](https://practice.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1)
+- [Surround_the_1s_21_Aug23.cpp](./Solutions/Surround_the_1s_21_Aug23.cpp) || [EASY (MATRIX) - Problem link :](https://practice.geeksforgeeks.org/problems/surround-the-1s2505/1)
 - [Number_of_occurrence_20Aug23.cpp](./Solutions/Number_of_occurrence_20Aug23.cpp) || [MEDIUM (easy) - Problem link :](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)
 - [Flip_Bits_15Aug23.cpp](./Solutions/Flip_Bits_15Aug23.cpp) || [EASY - Problem link :](https://practice.geeksforgeeks.org/problems/flip-bits0240/1)
 - [Non_Repeating_Numbers_14Aug23.cpp](./Solutions/Non_Repeating_Numbers_14Aug23.cpp) || [MEDIUM - Problem link :](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
