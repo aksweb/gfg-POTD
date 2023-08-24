@@ -7,8 +7,8 @@ To view the code for a specific problem, simply click on the corresponding file 
 <br><br>
 
 - [Multiply_two_strings_24Aug23.py](./Solutions/Multiply_two_strings_24Aug23.py) || [MEDIUM (STRINGS) - Problem link :](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
-- [Find_the string_in_grid_23Aug2_.py](./Solutions/Find_the string_in_grid_23Aug23.py) || [MEDIUM (MATRIX, RECURSION) - Problem link :](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)
-- [Find*the string_in_grid_23Aug2*.cpp](./Solutions/Find_the_string_in_grid_23Aug23.cpp) || [MEDIUM (MATRIX, RECURSION) - Problem link :](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)
+- [Find_the string_in_grid_23Aug23.py](./Solutions/Find_the string_in_grid_23Aug23.py) || [MEDIUM (MATRIX, RECURSION) - Problem link :](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)
+- [Find_the string_in_grid_23Aug23.cpp](./Solutions/Find_the string_in_grid_23Aug23.cpp) || [MEDIUM (MATRIX, RECURSION) - Problem link :](https://practice.geeksforgeeks.org/problems/find-the-string-in-grid0111/1)
 - [Make_matrix_beautiful_22Aug23.cpp](./Solutions/Make_matrix_beautiful_22Aug23.cpp) || [MEDIUM (MATRIX) - Problem link :](https://practice.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1)
 - [Surround_the_1s_21_Aug23.cpp](./Solutions/Surround_the_1s_21_Aug23.cpp) || [EASY (MATRIX) - Problem link :](https://practice.geeksforgeeks.org/problems/surround-the-1s2505/1)
 - [Number_of_occurrence_20Aug23.cpp](./Solutions/Number_of_occurrence_20Aug23.cpp) || [MEDIUM (easy) - Problem link :](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)
