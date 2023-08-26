@@ -1,4 +1,4 @@
-class Solution
+ class Solution
 {
 public:
     vector<int> nearestSmallerTower(vector<int> arr)
