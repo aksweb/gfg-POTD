@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [Reverse_a_String27Aug23.cpp](./Solutions/Reverse_a_String27Aug23.cpp) || [EASY (Reverse a string) - Problem link :](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 - [Longest_K_unique_characters_substring_26Aug23.cpp](./Solutions/Longest_K_unique_characters_substring_26Aug23.cpp) || [MEDIUM (TWO POINTER, HASHMAP) - Problem link :](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
 - [Palindrome_String_25Aug23.cpp](./Solutions/Palindrome_String_25Aug23.cpp) || [EASY (PALINDROME STRING) - Problem link :](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 - [Multiply_two_strings_24Aug23.py](./Solutions/Multiply_two_strings_24Aug23.py) || [MEDIUM (STRINGS) - Problem link :](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
