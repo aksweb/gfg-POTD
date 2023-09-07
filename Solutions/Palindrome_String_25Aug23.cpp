@@ -5,7 +5,7 @@ public:
     {
         // Your code goes here
         long long n = S.length();
-        for (long long i = 0; i < n; i++)
+        for (long long i = 0; i < n/2; i++)
         {
             if (S[i] != S[n - 1 - i])
                 return 0;
