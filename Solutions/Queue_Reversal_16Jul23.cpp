@@ -18,3 +18,21 @@ public:
         return q;
     }
 };
+
+// // optimal method
+
+// void reverseQueue(std::queue<int> &q) {
+//     if (q.empty()) {
+//         return;
+//     }
+
+//     // Dequeue the front element
+//     int frontElement = q.front();
+//     q.pop();
+
+//     // Reverse the remaining elements in the queue
+//     reverseQueue(q);
+
+//     // Enqueue the front element at the rear
+//     q.push(frontElement);
+// }
